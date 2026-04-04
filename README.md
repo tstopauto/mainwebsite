@@ -1,57 +1,31 @@
-# "Sedna" One Page Website Template
+# T-Stop Auto Website
 
-"Sedna" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
+T-Stop Auto is a one-page website promoting our auto shop firm that consults and runs its own shops, providing exceptional general auto repair services.
 
-[Download on Codrops](http://tympanus.net/codrops/?p=24660)
+## Photo Asset Intentions
 
-[Demo](http://tympanus.net/Freebies/Sedna/)
+The current images are placeholders used for development. Below are the intended photo replacements for the final website:
+
+- **sedna-logo.png**: T-Stop Auto logo featuring red, blue, and dark green branding colors
+- **hero.jpg**: Exterior photo of the T-Stop Auto shop building showcasing the professional facade
+- **blog-img-01.jpg**: Illustration of consulting services, such as a meeting between T-Stop Auto consultants and a shop owner
+- **blog-img-02.jpg**: Photo of shop management in action, like the team organizing operations in a shop
+- **blog-img-03.jpg**: Image of general auto repairs, such as a mechanic performing maintenance on a vehicle
+- **devices.png**: Infographic or mockup displaying the benefits of T-Stop Auto services on various devices
+- **macbook-pro.png**: Screenshot or image related to shop management software/tools
+- **avatar.jpg**: Generic icon representing business success (no specific team member headshots)
+- **sketch-logo.png**: Placeholder for any design tool or software logo if needed
+- **testimonials-bg.jpg**: Background image for testimonials section (if added later)
+- **polygonal-bg.jpg**: Alternative background pattern for sections
+
+All images should align with the automotive theme and professional branding.
 
 ## License
 
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
+This website is proprietary to T-Stop Auto.
 
-## Contributing
+## Credits
 
-I encourage contributions to all of my templates and I will endeavour to review all pull requests submitted.
-
-Before contributing, please see the Contributing Guide (Coming soon).
-
-## Credits 
-
-### Bootstrap
-
-[Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
-
-### FancyBox
-
-[FancyBox](http://fancyapps.com/fancybox/) by fancyApps. Licensed under [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
-
-### FlexSlider
-
-[FlexSlider](http://www.woothemes.com/flexslider/) by WooThemes. Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/woothemes/FlexSlider/blob/master/LICENSE.md)
-
-### Waypoints
-
-[Waypoints](https://github.com/imakewebthings/waypoints) by Caleb Troughton. Licensed under [MIT](https://github.com/imakewebthings/waypoints/blog/master/licenses.txt)
-
-### Animate.css
-
-[Animate.css](https://daneden.github.io/animate.css/) by Dan Eden
-
-### Font Awesome Icons 
-
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/) by Dave Gandy. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
-
-### Elegant Icons 
-
-[Elegant Icons](http://www.elegantthemes.com/blog/resources/elegant-icon-font/) by Elegant Themes. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
-
-## Misc
-
-Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.dribbble.com/peterfinlan), [GitHub](https://github.com/peterfinlan)
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2015](http://www.codrops.com)
+Based on the Sedna template by Peter Finlan. Includes Bootstrap, FancyBox, FlexSlider, Waypoints, Animate.css, Font Awesome, and Elegant Icons.
 
 
